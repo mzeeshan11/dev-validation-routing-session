@@ -1,0 +1,23 @@
+.sidebar-fixed {
+    width: 6.5%;
+    position: fixed;
+    height: 100vh;
+    background-color: lightgrey !important;
+  }
+  .sidebar-active-tab {
+    color: #f46801 !important;
+    border-right: 3px solid #f46801;
+    margin: 0px 0px;
+  }
+  .sidebar-icon-text {
+    color: #000 !important;
+    text-decoration: none;
+  }
+  .sidebar-active-tab svg {
+    color: #f46801;
+  }
+  .sidebar-icons {
+    width: 35px !important;
+    color: var(--grey-light);
+    margin-top: 10px;
+  }
